@@ -1,30 +1,5 @@
-# 💫 About Me
-
-🌟 Ashok Suthar | Data Scientist & AI Innovator 💡<br><br>
-Blending technical expertise with creativity, I’m on a mission to revolutionize industries using Artificial Intelligence. From fraud-proofing insurance systems to automating tax claims and detecting defects in manufacturing, I thrive on solving complex challenges with cutting-edge technologies like YOLOv8, Deep Learning, NLP, and MLOps. 🚀<br><br>
-With dual degrees in Data Science (IIT Madras) and Artificial Intelligence (VJIT), I combine academic excellence with real-world experience. My projects focus on creating scalable solutions that save time, money, and effort while making technology accessible to everyone.<br><br>
-
-Professional Highlights
-🏆 Hackathon Champion: Winner of MatHack 2.0, Tic-Tech-Toe 2024, and CodeStorm for delivering innovative AI-driven solutions.<br>
-💼 Leadership: Served as President of the DSS Tech Club and Placement Coordinator, mentoring peers and fostering innovation.<br>
-🚀 Projects:
-
-InSure: Developed an AI-powered car insurance platform, saving $300M annually, with a fraud detection system preventing anomalies worth $6B.<br>
-TaxsMart: Automated tax claims using a multimodal AI system, saving $200M and reducing processing errors.<br>
-LensGuard: Designed a lens defect detection model, reducing manpower by 80% and achieving 95% accuracy with real-time deployment on NVIDIA Jetson.<br><br>
-Skills 💻
-Programming: Python, Java, Dart, JavaScript<br>
-AI Specializations: GenAI, MLOps, Computer Vision, NLP<br>
-Frameworks: React.js, Django, Flask<br>
-Tools & Databases: MongoDB, PostgreSQL, MySQL, Power BI<br>
-I’m passionate about building AI-driven solutions that are simple, scalable, and impactful. Whether it’s leading a team, cracking a tough problem, or brainstorming the next big idea, I’m all in!<br><br>
-Fun Facts 🤩
-☕ Coffee is my coding fuel — my best ideas come with a double shot of espresso!<br>
-🤖 I’m a robotics geek and achieved 97% accuracy in cryptographic pattern detection during a research project.<br>
-🌌 Late-night coding sessions and brainstorming are my superpowers for sparking innovation.<br>
-🌏 I dream of using AI to create a sustainable and connected future.<br><br>
-
-Let’s connect, collaborate, and build something extraordinary together! ✨<br><br>
+# 💫 About Me:
+🌟 Ashok Suthar | Data Scientist & AI Innovator 💡<br><br>Blending technical expertise with creativity, I’m passionate about using AI to solve real-world challenges. From fraud-proofing insurance systems to automating tax claims and defect detection, I’ve tackled impactful projects with technologies like YOLOv8, Deep Learning, and NLP. 🚀<br><br>Professional Highlights<br>Hackathon Champion 🏆: Winner of MatHack 2.0, Tic-Tech-Toe 2024, and CodeStorm.<br>Leadership: President of the DSS Tech Club and Placement Coordinator.<br>Projects: Delivered cutting-edge solutions like InSure (saved $300M) and TaxsMart (streamlined claims worth $200M).<br>Skills 💻<br>Python, React.js, MLOps, GenAI, Computer Vision, and more. Always up for solving complex problems with simple, scalable solutions.<br><br>Fun Facts 🤩<br>Coffee fuels my best code ☕➡️💻.<br>I geek out over robotics and have hit 97% accuracy in cryptographic pattern detection.<br>Love turning late-night brainstorms into breakthrough innovations. 🌌<br>Let’s connect and build something extraordinary together! ✨<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
