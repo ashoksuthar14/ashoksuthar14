@@ -2,13 +2,6 @@
 🌟 Ashok Suthar | Data Scientist & AI Innovator 💡<br><br>Blending technical expertise with creativity, I’m passionate about using AI to solve real-world challenges. From fraud-proofing insurance systems to automating tax claims and defect detection, I’ve tackled impactful projects with technologies like YOLOv8, Deep Learning, and NLP. 🚀<br><br>Professional Highlights<br>Hackathon Champion 🏆: Winner of MatHack 2.0, Tic-Tech-Toe 2024, and CodeStorm.<br>Leadership: President of the DSS Tech Club and Placement Coordinator.<br>Projects: Delivered cutting-edge solutions like InSure (saved $300M) and TaxsMart (streamlined claims worth $200M).<br>Skills 💻<br>Python, React.js, MLOps, GenAI, Computer Vision, and more. Always up for solving complex problems with simple, scalable solutions.<br><br>Fun Facts 🤩<br>Coffee fuels my best code ☕➡️💻.<br>I geek out over robotics and have hit 97% accuracy in cryptographic pattern detection.<br>Love turning late-night brainstorms into breakthrough innovations. 🌌<br>Let’s connect and build something extraordinary together! ✨<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
-
-
-
-
-
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/UcDZQTk7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ashxboi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashok--suthar/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Ashoksuthar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AI_with_ashu) 
 
